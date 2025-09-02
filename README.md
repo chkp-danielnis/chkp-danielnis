@@ -6,7 +6,7 @@ On **Aug 18, 2025**, I joined **Check Point** as a **Software Developer** in the
 ## 🔭 Projects I'm Working On
 - Getting to know the codebase and Check Point GW architecture  
 - Setting up a home server on an old mini-PC running services like Plex, Pi-Hole, and other self-hosted tools  
-- Completing a hands-on DevOps course with [Devops Leaders IL](https://www.linkedin.com/company/devops-leaders-il/)  
+- Completed a hands-on DevOps course with [Devops Leaders IL](https://www.linkedin.com/company/devops-leaders-il/)  
 
 ## 🎯 External Goals
 - Learn the **OWASP Top 10 (2025 list)**  
